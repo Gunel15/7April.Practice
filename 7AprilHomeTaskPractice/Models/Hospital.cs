@@ -89,14 +89,7 @@ namespace _7AprilHomeTaskPractice.Models
             }
         }
 
-        //public void GetWeeklyAppointments()
-        //{
-        //    foreach (var item in Appointments)
-        //    {foreach(var item2 in Appointments)
-        //        if (item.StartDate.Day -item2.StartDate.Day ==7)
-        //            Console.WriteLine($"About No-{item.No} Appointment:\nPatient: {item.Patient}\nDoctor: {item.Doctor}\nDate Interval:{item.StartDate}-{item.EndDate}\n");
-        //    }
-        //}
+       
     }
 }
 
