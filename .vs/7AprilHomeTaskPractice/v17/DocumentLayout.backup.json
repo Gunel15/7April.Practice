@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|c:\\users\\v\u0026v\\source\\repos\\7aprilhometaskpractice\\7aprilhometaskpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|solutionrelative:7aprilhometaskpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|c:\\users\\v\u0026v\\source\\repos\\7aprilhometaskpractice\\7aprilhometaskpractice\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|solutionrelative:7aprilhometaskpractice\\models\\hospital.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|c:\\users\\v\u0026v\\source\\repos\\7aprilhometaskpractice\\7aprilhometaskpractice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|solutionrelative:7aprilhometaskpractice\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|c:\\users\\v\u0026v\\source\\repos\\7aprilhometaskpractice\\7aprilhometaskpractice\\exceptions\\reserveddateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|solutionrelative:7aprilhometaskpractice\\exceptions\\reserveddateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|c:\\users\\v\u0026v\\source\\repos\\7aprilhometaskpractice\\7aprilhometaskpractice\\exceptions\\wrongdateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D64F880-0E5D-42C7-A862-031E868C9F15}|7AprilHomeTaskPractice\\7AprilHomeTaskPractice.csproj|solutionrelative:7aprilhometaskpractice\\exceptions\\wrongdateinterval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WrongDateInterval.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Exceptions\\WrongDateInterval.cs",
+              "RelativeDocumentMoniker": "7AprilHomeTaskPractice\\Exceptions\\WrongDateInterval.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Exceptions\\WrongDateInterval.cs",
+              "RelativeToolTip": "7AprilHomeTaskPractice\\Exceptions\\WrongDateInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:18:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservedDateInterval.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Exceptions\\ReservedDateInterval.cs",
+              "RelativeDocumentMoniker": "7AprilHomeTaskPractice\\Exceptions\\ReservedDateInterval.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Exceptions\\ReservedDateInterval.cs",
+              "RelativeToolTip": "7AprilHomeTaskPractice\\Exceptions\\ReservedDateInterval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T08:16:13.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hospital.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Models\\Hospital.cs",
+              "RelativeDocumentMoniker": "7AprilHomeTaskPractice\\Models\\Hospital.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Models\\Hospital.cs",
+              "RelativeToolTip": "7AprilHomeTaskPractice\\Models\\Hospital.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAcwFcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:46:42.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "7AprilHomeTaskPractice\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Models\\Appointment.cs",
+              "RelativeToolTip": "7AprilHomeTaskPractice\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:44:49.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Program.cs",
+              "RelativeDocumentMoniker": "7AprilHomeTaskPractice\\Program.cs",
+              "ToolTip": "C:\\Users\\V\u0026V\\source\\repos\\7AprilHomeTaskPractice\\7AprilHomeTaskPractice\\Program.cs*",
+              "RelativeToolTip": "7AprilHomeTaskPractice\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:43:59.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

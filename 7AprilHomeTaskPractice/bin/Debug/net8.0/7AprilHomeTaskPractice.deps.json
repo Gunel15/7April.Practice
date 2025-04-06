@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "7AprilHomeTaskPractice/1.0.0": {
+        "runtime": {
+          "7AprilHomeTaskPractice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7AprilHomeTaskPractice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

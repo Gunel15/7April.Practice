@@ -1,0 +1,14 @@
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\bin\Debug\net8.0\7AprilHomeTaskPractice.exe
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\bin\Debug\net8.0\7AprilHomeTaskPractice.deps.json
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\bin\Debug\net8.0\7AprilHomeTaskPractice.runtimeconfig.json
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\bin\Debug\net8.0\7AprilHomeTaskPractice.dll
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\bin\Debug\net8.0\7AprilHomeTaskPractice.pdb
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.AssemblyInfoInputs.cache
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.AssemblyInfo.cs
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.csproj.CoreCompileInputs.cache
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.dll
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\refint\7AprilHomeTaskPractice.dll
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.pdb
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\7AprilHomeTaskPractice.genruntimeconfig.cache
+C:\Users\V&V\source\repos\7AprilHomeTaskPractice\7AprilHomeTaskPractice\obj\Debug\net8.0\ref\7AprilHomeTaskPractice.dll
